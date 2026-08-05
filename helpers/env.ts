@@ -5,21 +5,12 @@ import * as path from "path";
 dotenv.config({path: path.resolve(__dirname, '../.env.staging')})
 
 export function getBaseUrl(): string{
-    const url = process.env.BASE_URL;
+    const url = process.env.BASE_URL ?? 'https://app.staging.skima.ai';
 
     if(!url){
         throw new Error('BASE URL is not in .env');
     }
     return url;
-}
-
-export function getLoginMethod() : 'email' | 'google'{
-    const method = process.env.LOGIN_METHOD?.toLowerCase();
-
-    if(method !== 'email' && method !=='google'){
-        throw new Error(`Login Method Must be "email" or "google", got ${method}`);
-    }
-    return method;
 }
 
 export function getCredentials() : {email:string; password : string}{

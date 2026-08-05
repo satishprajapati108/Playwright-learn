@@ -1,0 +1,256 @@
+{
+  "cookies": [
+    {
+      "name": "__cf_bm",
+      "value": "iturLuagsJBUaxhNeOfBEhlRzdb.4wrQ_6yksa_G6Ic-1785919970.7217383-1.0.1.1-gg1f9K7pY83BdEQ__vQEwACVaEoJRKN83e36wBEYVX0cG5xjgrVEi6PYHe.vNnSD956K2crTau1LnXcsn06GBBTugnCOGHlMzpc8X9eBekMNiGxhcIukbDHqFBq9lqYR",
+      "domain": ".calendly.com",
+      "path": "/",
+      "expires": 1785921770.700051,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "staging-first_referrer_source",
+      "value": "",
+      "domain": ".staging.skima.ai",
+      "path": "/",
+      "expires": 1817455971,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "staging-first_referrer",
+      "value": "https://app.staging.skima.ai/login",
+      "domain": ".staging.skima.ai",
+      "path": "/",
+      "expires": 1817455971,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "staging-last_referrer",
+      "value": "https://app.staging.skima.ai/login",
+      "domain": ".staging.skima.ai",
+      "path": "/",
+      "expires": 1817455971,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "g_state",
+      "value": "{\"i_l\":0,\"i_ll\":1785919971863,\"i_b\":\"dJSPnuj553ATErQpSPqwrJds9b8ZNU5NBZJlBHqlmOE\",\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1785919971863}",
+      "domain": "app.staging.skima.ai",
+      "path": "/",
+      "expires": 1801471971,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rl_anonymous_id",
+      "value": "RS_ENC_v3_ImM1ZWFlOWZkLWIzYmQtNGQyMC1iZGU2LTY0MWM5YzY2MmI2ZSI%3D",
+      "domain": ".skima.ai",
+      "path": "/",
+      "expires": 1817455972,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rl_page_init_referrer",
+      "value": "RS_ENC_v3_IiRkaXJlY3Qi",
+      "domain": ".skima.ai",
+      "path": "/",
+      "expires": 1817455972,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_hjSessionUser_6401465",
+      "value": "eyJpZCI6ImRmYzc3MzI5LThhOTItNTVkMi04ZmZhLTA2NmFjMWFjZDcyNiIsImNyZWF0ZWQiOjE3ODU5MTk5NzIyMzIsImV4aXN0aW5nIjp0cnVlfQ==",
+      "domain": ".skima.ai",
+      "path": "/",
+      "expires": 1817455972,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_hjSession_6401465",
+      "value": "eyJpZCI6IjI5MzQ1ZTJlLWIzOTAtNDdjYy04MjBlLThkOGYwMjBkN2Y1ZCIsImMiOjE3ODU5MTk5NzIyNTMsInMiOjEsInIiOjEsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+      "domain": ".skima.ai",
+      "path": "/",
+      "expires": 1785921772,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sib_cuid",
+      "value": "98928426-7088-4fe0-b9da-44d1e906fcb8",
+      "domain": ".app.staging.skima.ai",
+      "path": "/",
+      "expires": 1801594372,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "staging-uid",
+      "value": "tester@sanity.test.2.com",
+      "domain": ".staging.skima.ai",
+      "path": "/",
+      "expires": 1786524777,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "staging-access-token",
+      "value": "U_dTco-Q6FTvsBeMPgxnFw",
+      "domain": ".staging.skima.ai",
+      "path": "/",
+      "expires": 1786524777,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "staging-expiry",
+      "value": "1817455976",
+      "domain": ".staging.skima.ai",
+      "path": "/",
+      "expires": 1786524777,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "staging-token-type",
+      "value": "Bearer",
+      "domain": ".staging.skima.ai",
+      "path": "/",
+      "expires": 1786524777,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "staging-client",
+      "value": "G3He09mRxdBxdQqCvuWBtw",
+      "domain": ".staging.skima.ai",
+      "path": "/",
+      "expires": 1786524777,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mp_70a60b8d17114ed82933bb0e2a4b01af_mixpanel",
+      "value": "%7B%22distinct_id%22%3A%22%24device%3Abd43734e-ed09-446f-b342-6618f8e88b1a%22%2C%22%24device_id%22%3A%22bd43734e-ed09-446f-b342-6618f8e88b1a%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
+      "domain": ".staging.skima.ai",
+      "path": "/",
+      "expires": 1817455978,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rl_user_id",
+      "value": "RS_ENC_v3_IjQzNDYyIg%3D%3D",
+      "domain": ".skima.ai",
+      "path": "/",
+      "expires": 1817455978,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rl_session",
+      "value": "RS_ENC_v3_eyJpZCI6MTc4NTkxOTk3MjEyNSwiZXhwaXJlc0F0IjoxNzg1OTIxNzc4MTMzLCJ0aW1lb3V0IjoxODAwMDAwLCJhdXRvVHJhY2siOnRydWUsInNlc3Npb25TdGFydCI6dHJ1ZX0%3D",
+      "domain": ".skima.ai",
+      "path": "/",
+      "expires": 1817455978,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mp_70a60b8d17114ed82933bb0e2a4b01af_mixpanel",
+      "value": "%7B%22distinct_id%22%3A%22%24device%3Abd43734e-ed09-446f-b342-6618f8e88b1a%22%2C%22%24device_id%22%3A%22bd43734e-ed09-446f-b342-6618f8e88b1a%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%7D",
+      "domain": "app.staging.skima.ai",
+      "path": "/",
+      "expires": 1817455978,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "staging-global-auth-key",
+      "value": "ku5cqiJynjMGYAUq2UV6tgVASpNM0z/pKj/YyK6JvsI=",
+      "domain": ".staging.skima.ai",
+      "path": "/",
+      "expires": 1786524778,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://app.staging.skima.ai",
+      "localStorage": [
+        {
+          "name": "__mpq_70a60b8d17114ed82933bb0e2a4b01af_ev",
+          "value": "[{\"id\":\"w8iqk4b8l10tyjxs\",\"flushAfter\":1785919988130,\"payload\":{\"event\":\"$identify\",\"properties\":{\"$os\":\"Windows\",\"$browser\":\"Chrome\",\"$current_url\":\"https://app.staging.skima.ai/login\",\"$browser_version\":151,\"$screen_height\":720,\"$screen_width\":1280,\"mp_lib\":\"web\",\"$lib_version\":\"2.65.0\",\"$insert_id\":\"4kj7mbehgz57ym6b\",\"time\":1785919978.129,\"distinct_id\":\"43462\",\"$device_id\":\"bd43734e-ed09-446f-b342-6618f8e88b1a\",\"$initial_referrer\":\"$direct\",\"$initial_referring_domain\":\"$direct\",\"$anon_distinct_id\":\"$device:bd43734e-ed09-446f-b342-6618f8e88b1a\",\"token\":\"70a60b8d17114ed82933bb0e2a4b01af\"}}},{\"id\":\"bbhcgy7gpmgofh8z\",\"flushAfter\":1785919988155,\"payload\":{\"event\":\"$identify\",\"properties\":{\"$os\":\"Windows\",\"$browser\":\"Chrome\",\"$current_url\":\"https://app.staging.skima.ai/login\",\"$browser_version\":151,\"$screen_height\":720,\"$screen_width\":1280,\"mp_lib\":\"web\",\"$lib_version\":\"2.80.0\",\"$insert_id\":\"h9edhfvxvm7st4ta\",\"time\":1785919978.154,\"distinct_id\":\"43462\",\"$device_id\":\"bd43734e-ed09-446f-b342-6618f8e88b1a\",\"$initial_referrer\":\"$direct\",\"$initial_referring_domain\":\"$direct\",\"$anon_distinct_id\":\"$device:bd43734e-ed09-446f-b342-6618f8e88b1a\",\"token\":\"70a60b8d17114ed82933bb0e2a4b01af\"}}}]"
+        },
+        {
+          "name": "hjActiveViewportIds",
+          "value": "[{\"id\":\"8f8609b0-c319-401f-aa73-5bd40b92fa88\",\"expireTimestamp\":1785941572665}]"
+        },
+        {
+          "name": "rudder_2yMK7mEXysU5eizmObYC9ZN7zpz.07717515-7676-40af-9af5-ea1d8a4af0b4.queue",
+          "value": "\"[]\""
+        },
+        {
+          "name": "logged-out-timestamp",
+          "value": "Wed Aug 05 2026 14:22:51 GMT+0530 (India Standard Time)"
+        },
+        {
+          "name": "rudder_2yMK7mEXysU5eizmObYC9ZN7zpz.07717515-7676-40af-9af5-ea1d8a4af0b4.batchQueue",
+          "value": "\"[]\""
+        },
+        {
+          "name": "rudder_2yMK7mEXysU5eizmObYC9ZN7zpz.07717515-7676-40af-9af5-ea1d8a4af0b4.ack",
+          "value": "\"1785919978226\""
+        },
+        {
+          "name": "rudder_2yMK7mEXysU5eizmObYC9ZN7zpz.07717515-7676-40af-9af5-ea1d8a4af0b4.inProgress",
+          "value": "\"{\\\"65db16a1-2bd4-4bae-87cd-236c51a74b46\\\":{\\\"item\\\":{\\\"url\\\":\\\"https://rudderstack.skima.ai/v1/identify\\\",\\\"headers\\\":{\\\"AnonymousId\\\":\\\"YzVlYWU5ZmQtYjNiZC00ZDIwLWJkZTYtNjQxYzljNjYyYjZl\\\"},\\\"event\\\":{\\\"userId\\\":\\\"43462\\\",\\\"type\\\":\\\"identify\\\",\\\"context\\\":{\\\"traits\\\":{},\\\"sessionId\\\":1785919972125,\\\"sessionStart\\\":true,\\\"app\\\":{\\\"name\\\":\\\"RudderLabs JavaScript SDK\\\",\\\"namespace\\\":\\\"com.rudderlabs.javascript\\\",\\\"version\\\":\\\"3.21.0\\\",\\\"installType\\\":\\\"npm\\\"},\\\"library\\\":{\\\"name\\\":\\\"RudderLabs JavaScript SDK\\\",\\\"version\\\":\\\"3.21.0\\\"},\\\"userAgent\\\":\\\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36\\\",\\\"os\\\":{\\\"name\\\":\\\"\\\",\\\"version\\\":\\\"\\\"},\\\"locale\\\":\\\"en-US\\\",\\\"screen\\\":{\\\"width\\\":1280,\\\"height\\\":720,\\\"density\\\":1.0000000298023224,\\\"innerWidth\\\":1280,\\\"innerHeight\\\":720},\\\"campaign\\\":{},\\\"page\\\":{\\\"path\\\":\\\"/login\\\",\\\"referrer\\\":\\\"$direct\\\",\\\"referring_domain\\\":\\\"\\\",\\\"search\\\":\\\"\\\",\\\"title\\\":\\\"Login to Skima AI | Access Your Account\\\",\\\"url\\\":\\\"https://app.staging.skima.ai/login\\\",\\\"tab_url\\\":\\\"https://app.staging.skima.ai/login\\\",\\\"initial_referrer\\\":\\\"$direct\\\",\\\"initial_referring_domain\\\":\\\"\\\"},\\\"timezone\\\":\\\"GMT+0530\\\"},\\\"channel\\\":\\\"web\\\",\\\"originalTimestamp\\\":\\\"2026-08-05T08:52:58.137Z\\\",\\\"messageId\\\":\\\"a2b05dcc-1007-4bea-8c87-816c56751e2f\\\",\\\"anonymousId\\\":\\\"c5eae9fd-b3bd-4d20-bde6-641c9c662b6e\\\",\\\"event\\\":null,\\\"properties\\\":null,\\\"integrations\\\":{\\\"All\\\":true},\\\"sentAt\\\":\\\"2026-08-05T08:52:58.137Z\\\"}},\\\"attemptNumber\\\":0,\\\"time\\\":1785919978138,\\\"type\\\":\\\"Single\\\",\\\"firstAttemptedAt\\\":1785919978138,\\\"lastAttemptedAt\\\":1785919978138}}\""
+        },
+        {
+          "name": "userpilotSDK1282647529",
+          "value": "{\"userpilotIdentifiedObj1282647529\":\"{\\\"name\\\":\\\"Sanity 2\\\",\\\"email\\\":\\\"tester@sanity.test.2.com\\\"}\",\"userpilotUserId1282647529\":\"43462-staging\"}"
+        },
+        {
+          "name": "__mpq_70a60b8d17114ed82933bb0e2a4b01af_pp",
+          "value": "[{\"id\":\"n9h3f94n35gcduq8\",\"flushAfter\":1785919988126,\"payload\":{\"$set_once\":{\"$initial_referrer\":\"$direct\",\"$initial_referring_domain\":\"$direct\"},\"$token\":\"70a60b8d17114ed82933bb0e2a4b01af\",\"$distinct_id\":\"$device:bd43734e-ed09-446f-b342-6618f8e88b1a\",\"$device_id\":\"bd43734e-ed09-446f-b342-6618f8e88b1a\"}},{\"id\":\"27vbjejjylv5wfb3\",\"flushAfter\":1785919988150,\"payload\":{\"$set_once\":{\"$initial_referrer\":\"$direct\",\"$initial_referring_domain\":\"$direct\"},\"$token\":\"70a60b8d17114ed82933bb0e2a4b01af\",\"$distinct_id\":\"$device:bd43734e-ed09-446f-b342-6618f8e88b1a\",\"$device_id\":\"bd43734e-ed09-446f-b342-6618f8e88b1a\"}}]"
+        }
+      ]
+    },
+    {
+      "origin": "https://challenges.cloudflare.com",
+      "localStorage": [
+        {
+          "name": "cf.turnstile.u",
+          "value": "oKXQon7ZNt1Np1iSgcRvIzpU.C5CckOG4et90egiSQQ-1785919972-1.3.1.1-xFjRxfwWGwHJCcYyaAPhzPzeggl6.zXVgGm8CEuwTQJR.k5BOvVC.BGB5DXDPzNFH0Cw8LDTnBrhkHx9sT850Q"
+        }
+      ]
+    }
+  ]
+}
