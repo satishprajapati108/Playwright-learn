@@ -1,8 +1,16 @@
+# Node
+node_modules/
 
 # Playwright
-node_modules/
 /test-results/
 /playwright-report/
-/blob-report/
 /playwright/.cache/
-/playwright/.auth/
+/blob-report/
+
+# Auth session (never commit — it's a live logged-in session)
+.auth/
+
+# Env files (secrets)
+.env
+.env.staging
+.env.prod
